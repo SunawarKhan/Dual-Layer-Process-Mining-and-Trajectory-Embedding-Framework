@@ -1,4 +1,4 @@
-[Uploading README.md…]()
+
 # DPTEM — Dual-Layer Process-mining and Trajectory-Embedding Model
 
 **Process Mining + Patient-Trajectory Analysis for ICU Clinical-Pathway Discovery and Risk Prediction (MIMIC-III)**
@@ -46,10 +46,15 @@ The notebook runs top-to-bottom on the open-access **MIMIC-III Clinical Database
 ## Repository structure
 
 ```
-.
-├── DPTEM_MIMIC3_process_mining_trajectory_REVISED.ipynb   # main notebook (runs end-to-end)
-├── data/                                                  # MIMIC-III demo CSVs (created on setup)
-└── README.md
+DPTEM_MIMIC3_repository/
+├── Output/
+│   ├── Figure/
+│   └── Tables/
+├── .gitset
+├── DPTEM_MIMIC3_process_mining.ipynb
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
