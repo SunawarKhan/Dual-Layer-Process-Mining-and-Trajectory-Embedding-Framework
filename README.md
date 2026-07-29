@@ -11,13 +11,13 @@ The notebook runs top-to-bottom on the open-access **MIMIC-III Clinical Database
 
 ## Authors
 
-- **Sunawar Khan**¹
+- **Sunawar Khan**1
 - **Rahma Zayoud**
 - **Ibrahim Alreshidi**
 - **Sghaier Guizani**
 - **Habib Hamam**
 
-> ¹ Corresponding author. *(Add institutional affiliations and contact e-mail here.)*
+> ¹ Corresponding author. *(Sunawar Khan, National College of Business Administration and Economics, Lahore, Pk)*
 
 ---
 
