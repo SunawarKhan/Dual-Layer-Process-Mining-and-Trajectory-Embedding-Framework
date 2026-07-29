@@ -1,0 +1,4 @@
+stage,seconds
+"one patient-grouped CV fit (fusion, GBT)",0.99
+bootstrap CI (2000 resamples),1.1
+one leave-one-block-out arm (5x5 CV),2.07

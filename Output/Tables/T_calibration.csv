@@ -1,0 +1,4 @@
+Calibration,AUROC,Brier,Reliability,Resolution,Uncertainty,ECE
+Uncalibrated,0.742,0.203,0.0395,0.049,0.2139,0.184
+Platt (sigmoid),0.712,0.188,0.0076,0.0279,0.2139,0.079
+Isotonic,0.784,0.168,0.0108,0.0558,0.2139,0.092

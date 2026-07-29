@@ -1,0 +1,4 @@
+"Mortality, fusion features",OOF AUROC
+Admission-level CV (leaky),0.744
+Patient-grouped CV (correct),0.742
+Optimism attributable to patient leakage,0.002

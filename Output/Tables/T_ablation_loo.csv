@@ -1,0 +1,6 @@
+Configuration,n_feat,AUROC,dAUROC,p_wilcoxon,p_corrected_t
+DPTEM fusion (all blocks),44,0.735 ± 0.089,—,—,—
+− process block,39,0.613 ± 0.145,+0.122,0.000,0.122
+− trajectory block,8,0.792 ± 0.110,-0.057,0.008,0.306
+− cluster block,43,0.742 ± 0.085,-0.007,0.192,0.653
+− demographics block,42,0.740 ± 0.091,-0.005,0.244,0.754

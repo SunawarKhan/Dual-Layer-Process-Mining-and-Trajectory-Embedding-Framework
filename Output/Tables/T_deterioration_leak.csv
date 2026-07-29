@@ -1,0 +1,3 @@
+Deterioration head (patient-grouped OOF),AUROC,AUPRC,F1
+All fusion features (as published),0.884,0.947,0.85
+Proxy constituents removed,0.539,0.685,0.712

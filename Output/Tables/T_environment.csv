@@ -1,0 +1,14 @@
+component,version
+python,3.12.3
+numpy,1.26.4
+pandas,2.2.2
+scikit-learn,1.4.2
+scipy,1.13.1
+torch,not installed
+pm4py,2.7.23.3
+tslearn,0.6.3
+lifelines,0.29.0
+shap,0.45.1
+platform,Linux-6.18.5-x86_64-with-glibc2.39
+device,cpu
+seed,42
