@@ -1,0 +1,25 @@
+# DPTEM — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# Core scientific stack
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+scikit-learn>=1.2
+matplotlib>=3.6
+
+# Deep learning (trajectory encoder / fusion MLP)
+torch>=2.0
+
+# Process mining
+pm4py>=2.7
+
+# Trajectory clustering (DTW / soft-DTW k-means) & survival analysis
+tslearn>=0.6
+lifelines>=0.27
+
+# Model interpretability
+shap>=0.42
+
+# Notebook environment
+jupyter>=1.0
